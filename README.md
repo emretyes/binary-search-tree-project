@@ -6,16 +6,19 @@ Root 7'dir;
 Rootun sağında 8 bulunur.
 Solunda 5 bulunur.
 
-Root 8'dır;
+Root 8'dir;
 Rootun sağında 9 bulunur. 
 
 Root 5'dir; 
-Rootun sağında 6, solunda 1 bulunur. 
+Rootun sağında 6 bulur.
+Solunda 1 bulunur. 
 
 Root 1'dir;
-Sağında 3, solunda 0 bulunur. 
+Sağında 3 bulunur.
+Solunda 0 bulunur. 
 
 Root 3'tür;
-Sağında 4, solunda 2 bulunur.
+Sağında 4 bulunur.
+Solunda 2 bulunur.
 
 https://app.patika.dev/tyes
